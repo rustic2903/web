@@ -1,0 +1,65 @@
+body {
+    background-image: url("https://coolbackgrounds.imgix.net/4lBzkVBmJ0qvFJ90SJHEdV/7645fc49f7f1fb4a8c31a94fc4c97f4d/black-particles-background.png?w=3840&q=60&auto=format,compress");
+    background-size: cover;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+.container {
+    background-color: rgb(72, 7, 7);
+    border-radius: 20px;
+    margin: auto;
+    
+    
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: aliceblue;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: azure;
+}
+
+#save-el {
+    color: antiquewhite;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: rgb(239, 169, 6);
+}
+
+#save-btn {
+    background: darkgreen;
+}
+
+#remove-btn {
+    background-color: red;
+}
+
+#delete {
+    background-color: rgb(255, 255, 255);
+    color: black;
+}
